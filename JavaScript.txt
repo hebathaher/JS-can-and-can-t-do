@@ -1,0 +1,26 @@
+﻿What can JavaScript do in the browser
+
+It is considered a safe programming language meaning it provides security there is no low-level access to memory or CPU
+Including, JavaScript capabilities vary depending on the environment in which you are working It allows reading and writing of random files and fulfills network requests
+ In the browser, JavaScript can process web pages and interact with the user and the web server, for example, new HTML addition to the page, cursor 
+movements, sending requests over the network to remote servers
+………………………………………………………………………………..
+The main goal is to provide security and user safety, that is, to prevent any dangerous page from accessing user information or damaging it
+………………………………………………………………………………...
+What cannot JavaScript do in my browser
+
+There is no direct access to the operating system, that is, it does not read or write random files on the hard disk, copy them to files, or execute any   programs that would allow if the user dropped a file via input tag
+JavaScript cannot access another page if it is from different websites (from a different protocol or port)
+Connecting to the server is easy, but its ability to receive data from other websites is disabled (approval is required)
+………………………………………………………………………………
+* JavaScript makes pages live
+* Programs are called scripts
+* This language differs from the Java language
+* The initial name is LiveScript
+* The engines work in steps, first, they read the script, secondly, they compile the text into machine language, third, run the code at high speed. Fourth, it applies any improvements in every step and analyzes the data that flows through it.
+………………………………………………………………………………
+The most important characteristic JavaScript
+* Full integration with HTML & CSS 
+* Simple & support by all browsers 
+………………………………………………………………………………
+JavaScript not suit everyone's need  because the projects & requirements different for everyone and there are many languages that get transpiled to JS such as Coffee Script , Draft 
